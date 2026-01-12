@@ -1,7 +1,7 @@
 # Ticketmaster-EventSearch-Flask
 
 ## Description
-- **Deployed Applocation**: https://csci571-hw2-yangli.wl.r.appspot.com
+- **Deployed Applocation**: [here](https://csci571-hw2-yangli.wl.r.appspot.com)
 
 - A full-stack web application that allows users to search for events using the Ticketmaster API. This project demonstrates backend proxying, geolocation integration, and dynamic front-end rendering without the use of heavy frameworks.
 
