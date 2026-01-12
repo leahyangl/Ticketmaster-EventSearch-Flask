@@ -16,7 +16,9 @@
 ## Local Setup
 1. **Install dependencies**
 
-    ```pip install -r requirements.txt```
+    ```
+    pip install -r requirements.txt
+    ```
 
 2. **Configure Environment Variables**
 - Copy [.env.example](./.env.example) to a new file named ```.env```.
@@ -24,6 +26,8 @@
 
 3. **Run the application**
 
-    ```python main.py```
+    ```
+    python main.py
+    ```
 
     Access the app at http://localhost:8080.
