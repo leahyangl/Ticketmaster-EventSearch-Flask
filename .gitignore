@@ -23,3 +23,5 @@ Thumbs.db
 
 *.zip
 process_log.txt
+
+app.yaml
